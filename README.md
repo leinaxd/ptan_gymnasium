@@ -1,4 +1,11 @@
+#UPDATES:
+12/03/2023. Fork the repository.
 
+#TODO:
+1. make it compatible for gymnasium instead of gym
+
+From here its the old documentation
+=============================================================================
 # PTAN
 
 PTAN stands for PyTorch AgentNet -- reimplementation of
