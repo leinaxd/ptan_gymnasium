@@ -1,5 +1,5 @@
 #UPDATES:
-12/03/2023. Fork the repository.
+- 12/03/2023. Fork the repository. Nothing is done yet
 
 #TODO:
 1. make it compatible for gymnasium instead of gym
